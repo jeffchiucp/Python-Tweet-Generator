@@ -14,4 +14,4 @@ gunicorn==19.7.1
 python-dotenv==0.7.1
 oauthlib==2.0.4
 requests-oauthlib==0.8.0
-urllib3==1.22
+urllib3==1.26.5
