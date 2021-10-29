@@ -1,6 +1,6 @@
 # Python Tweet Generator
 
-Contributers&ensp;·&ensp;[Jeff Chiu](https://jeffchiucp.github.io/portfolio/)
+Contributers&ensp;·&ensp;[Jeff](https://www.linkedin.com/in/jeffchiu2022/)
 
 > Python Tweet Generator is a light weight Markov Model implemented into python
 
